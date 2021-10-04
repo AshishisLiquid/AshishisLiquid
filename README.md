@@ -1,11 +1,11 @@
-# <p align="center">️ **Hello!!<img src="./assets/wave.gif" alt="waving hand" width="30px">I'm Ashish Pise** 🚀️</p>
+# <p align="center">️ **Hello!!:wave: I'm Ashish Pise** 🚀️</p>
 
 </br>
 <img align="right" alt="coding" width="250"  src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="40" > **About Me:**
 
-- I,m a Passionate Programmer and a **Web Developer👨‍💻**.
+- I,m a Passionate Programmer and a **Full Stack Engineer👨‍💻**.
 - I always love to explore and learn new **Technologies**💻.
 - Always Open to contribute in **Open source** Projects👨‍💻.
 - Looking for a **React Project** to contribute😀.

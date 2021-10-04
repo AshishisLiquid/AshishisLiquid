@@ -31,11 +31,11 @@
 
 </br>
 <p align="center">
- <a href="https://github.com/Vishal01-git">
+ <a href="https://github.com/AshishisLiquid">
   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=AshishisLiquid&show_icons=true&theme=radical&count_private=true">
  </a>
 
- <a href="https://github.com/Vishal01-git/github-readme-stats">
+ <a href="https://github.com/AshishisLiquid">
    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AshishisLiquid&layout=compact&theme=radical&langs_count=6" />
  </a>
 </p>

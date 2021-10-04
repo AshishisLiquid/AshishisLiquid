@@ -1,7 +1,7 @@
 # <p align="center">️ **Hello!!:wave: I'm Ashish Pise** 🚀️</p>
 
 </br>
-<img align="right" alt="coding" width="250"  src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
+<img align="right" alt="coding" width="300" height="200"  src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="40" > **About Me:**
 
@@ -13,7 +13,7 @@
 </br>
 </br>
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal01-git&theme=radical&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshishisLiquid&theme=radical&hide_border=true"/>
 </p>
 
 </br>

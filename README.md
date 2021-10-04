@@ -5,10 +5,9 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="40" > **About Me:**
 
-- I,m a Passionate Programmer and a **Full Stack Engineer👨‍💻**.
+- I'm a Lazy Programmer and a **Full Stack Engineer👨‍💻**.
 - I always love to explore and learn new **Technologies**💻.
 - Always Open to contribute in **Open source** Projects👨‍💻.
-- Looking for a **React Project** to contribute😀.
 
 </br>
 </br>

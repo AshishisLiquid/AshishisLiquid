@@ -1,4 +1,4 @@
-# <p align="center">️ **Hello!!:wave: I'm Ashish Pise** 🚀️</p>
+# <p align="center">️ **Hello!!:wave: I'm Ashish Pise** ☕</p>
 
 </br>
 <img align="right" alt="coding" width="300" height="200"  src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
@@ -6,7 +6,7 @@
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="40" > **About Me:**
 
 - I'm a Lazy Programmer and a **Full Stack Engineer👨‍💻**.
-- I always love to explore and learn new **Technologies**💻.
+- I always love to explore and learn new **Technologies**💻 and Like to Destroy some Technologies or Games by doing some weird stuff 🤓.
 - Always Open to contribute in **Open source** Projects👨‍💻.
 
 </br>

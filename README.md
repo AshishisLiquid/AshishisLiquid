@@ -1,10 +1,7 @@
 # <p align="center">️ **Hello!!:wave: I'm Ashish Pise** ☕</p>
 
 </br>
-</br>
 
-# <p align="center"> **Holopin Badge Board** </p>
-[![Ashish's Holopin board](https://holopin.io/api/user/board?user=liquid)](https://holopin.io/@liquid)
 
 <img align="right" alt="coding" width="300" height="200"  src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 
@@ -31,6 +28,10 @@
 <a href="mailto:ashishpise111@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?logoWidth=40style=flat-square&logo=Gmail&logoColor=white" alt="vishal" /></a>
 
 </p>
+</br>
+
+# <p align="center"> **Holopin Badge Board** </p>
+[![Ashish's Holopin board](https://holopin.io/api/user/board?user=liquid)](https://holopin.io/@liquid)
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 

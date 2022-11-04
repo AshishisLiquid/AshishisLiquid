@@ -1,6 +1,11 @@
 # <p align="center">️ **Hello!!:wave: I'm Ashish Pise** ☕</p>
 
 </br>
+</br>
+
+# <p align="center"> **Holopin Badge Board** </p>
+[![Ashish's Holopin board](https://holopin.io/api/user/board?user=liquid)](https://holopin.io/@liquid)
+
 <img align="right" alt="coding" width="300" height="200"  src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="40" > **About Me:**
